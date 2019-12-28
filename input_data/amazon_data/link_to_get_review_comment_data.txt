@@ -1,0 +1,2 @@
+Go to : https://www.kaggle.com/bittlingmayer/amazonreviews
+to get test.ft.txt.bz2 and train.ft.txt.bz2

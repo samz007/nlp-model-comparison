@@ -11,3 +11,5 @@ pip-selfcheck.json
 venv/
 .idea
 *.iml
+test.ft.txt.bz2
+train.ft.txt.bz2
