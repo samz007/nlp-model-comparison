@@ -17,17 +17,11 @@ Test data can be used to evaluate the performances of different NLP classifier m
 This project covers the `Semantic Analysis` aspect of NLP. Semantic Analysis is a structure created by the syntactic analyzer which assigns meanings. In Semantic Analysis, linear sequences of words are transferred into structures. It shows how the terms are associated with each other.
 The project consists of the following components:
 
-* [Algorithm designing and Model comparison using Amazon review comments](https://github.com/samz007/nlp-model-comparison/tree/master/review_comment_analysis.ipynb)
+* [Algorithm designing and Model comparison using Amazon review comments](https://github.com/samz007/nlp-model-comparison/tree/master/review_comment_analysis.ipynb): In this part, a relatively large dataset of review comments is preprocessed, analyzed, and used to train different classifiers. The models were tested against different test sets of review comments, and their performances were compared.
 
-In this part, a relatively large dataset of review comments is preprocessed, analyzed, and used to train different classifiers. The models were tested against different test sets of review comments, and their performances were compared.
+* [Review analysis for restaurant review comments](https://github.com/samz007/nlp-model-comparison/tree/master/restaurant_review_analysis): In this part, review comments regarding the quality of food given at restaurants were used to train different classifier models, and their performances were analyzed.
 
-* [Review analysis for restaurant review comments](https://github.com/samz007/nlp-model-comparison/tree/master/restaurant_review_analysis):
-
-In this part, review comments regarding the quality of food given at restaurants were used to train different classifier models, and their performances were analyzed.
-
-* [Sentiment analysis on combined data](https://github.com/samz007/nlp-model-comparison/tree/master/combined_review_analysis):
-
-In this part, review comments obtained for movies and online-shopping platform were combined to train the classifier. The effect of the combination was analyzed, and the prediction model was built to predict the satisfaction level of a customer after inputting the comment.
+* [Sentiment analysis on combined data](https://github.com/samz007/nlp-model-comparison/tree/master/combined_review_analysis): In this part, review comments obtained for movies and online-shopping platform were combined to train the classifier. The effect of the combination was analyzed, and the prediction model was built to predict the satisfaction level of a customer after inputting the comment.
 
 
 **References**
