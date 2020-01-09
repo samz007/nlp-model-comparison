@@ -1,8 +1,8 @@
 # NLP-model-comparison
 
-**Overview**
+**About Natural Language Processing (NLP)**
 
-One of the most significant features that AI comes with is Natural Language Processing (NLP). 
+One of the most significant features that AI comes with is NLP. 
 NLP helps developers to organize and structure knowledge to perform tasks like translation, summarization, named entity recognition, relationship extraction, speech recognition, topic segmentation, etc.
 Words used in language and their arrangement in sentences are related to the feelings involved. The mathematics behind these words in sentences can be used to derive predictions about the sentiments of the language used.
 

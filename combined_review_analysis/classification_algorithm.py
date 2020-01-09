@@ -2,7 +2,7 @@ from pip._vendor.distlib.compat import raw_input
 
 
 def get_comment_type_positive_or_negative():
-    comment = raw_input("Enter the review comment givenn by customer  : ")
+    comment = raw_input("Enter the review comment given by customer  : ")
     with open("imdb_labelled.txt", "r") as text_file:
         lines = text_file.read().split('\n')
     with open("yelp_labelled.txt", "r") as text_file:
